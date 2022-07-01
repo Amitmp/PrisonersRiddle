@@ -37,7 +37,7 @@ Example :
 The reason this is a promising strategy is illustrated with the following example using 8 prisoners and drawers, whereby each prisoner may open 4 drawers. 
 The prison director has distributed the prisoners' numbers into the drawers in the following fashion:
 
-    number of drawer 	  1   2	  3	  4	  5	  6	  7	  8  
+    number of drawer 	1   2   3   4   5   6   7   8  
     number of prisoner 	7 	4 	6 	8 	1 	3 	5 	2 
 
 The prisoners now act as follows:
